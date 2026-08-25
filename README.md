@@ -70,3 +70,6 @@ El mayor desafío técnico residía en garantizar la integridad transaccional y 
 ## Justificación de la Elección para el Portafolio
 
 Elegí este proyecto como caso de estudio principal porque representa un desarrollo full-stack enfocado en la lógica de negocio real y la seguridad financiera. Demuestra mi capacidad para abordar problemas complejos —como la concurrencia de datos y el control de accesos restringidos— aplicando buenas prácticas de desarrollo desde el primer día, posicionándolo como una prueba sólida de mi preparación técnica para entornos profesionales.
+
+## repositorio GitHub 
+https://github.com/catacode-tech/Alke_Wallet_Django
